@@ -1,0 +1,22 @@
+{
+  "name": "xc9-jsds",
+  "version": "0.0.0",
+  "description": "JavaScript Data Structures",
+  "main": "List.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://work7@bitbucket.org/work7/xc9-jsds.git"
+  },
+  "author": "Kunal Dutt Sharma",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/work7/xc9-jsds#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
